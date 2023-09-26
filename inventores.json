@@ -1,0 +1,433 @@
+[
+  {
+    "nombre": "Nikola Tesla",
+    "fechaNacimiento": "10-07-1856",
+    "muerte": "07-01-1943",
+    "invento": "la corriente alterna",
+    "nacionalidad": "Serbio-estadounidense",
+    "profesion": "Ingeniero eléctrico e inventor",
+    "educacion": "Universidad Técnica de Graz, Universidad Carolina en Praga",
+    "logros": [
+      "Desarrollo del sistema de corriente alterna (CA) para la transmisión de energía eléctrica",
+      "Inventó la bobina Tesla y la radiocontrol",
+      "Contribuyó al desarrollo de la radio y la tecnología de rayos X"
+    ],
+    "lugarNacimiento": "Smiljan, Imperio austríaco (actual Croacia)",
+    "lugarMuerte": "Nueva York, Estados Unidos",
+    "residenciaDestacada": "Wardenclyffe Tower en Long Island, Nueva York",
+    "frasesFamosas": [
+      "La invención de la rueda no abrió ningún mercado porque no había carreteras.",
+      "Si quieres encontrar los secretos del universo, piensa en términos de energía, frecuencia y vibración."
+    ],
+    "reconocimientos": [
+      "Medalla Edison IEEE",
+      "Miembro de la Academia de Ciencias de Serbia",
+      "Gran Cruz de la Orden de San Sava"
+    ],
+    "creencias": "Tesla era un visionario que creía en la energía libre y la transmisión inalámbrica de energía.",
+    "legado": "Tesla hizo contribuciones fundamentales a la tecnología eléctrica y es considerado uno de los grandes inventores de la historia."
+  },
+  {
+    "nombre": "Alexander Graham Bell",
+    "fechaNacimiento": "03-03-1847",
+    "muerte": "02-08-1922",
+    "invento": "el teléfono",
+    "nacionalidad": "Escocés-estadounidense",
+    "profesion": "Inventor, científico y maestro de la voz",
+    "educacion": "Universidad de Edimburgo",
+    "logros": [
+      "Inventó el teléfono y obtuvo la primera patente en 1876",
+      "Desarrolló técnicas para enseñar a personas sordas a hablar",
+      "Fundador de la Asociación Nacional de Maestros de la Voz (NSDA)"
+    ],
+    "lugarNacimiento": "Edimburgo, Escocia",
+    "lugarMuerte": "Baddeck, Nueva Escocia, Canadá",
+    "residenciaDestacada": "Museo de Alexander Graham Bell en Baddeck",
+    "frasesFamosas": [
+      "Cuando una puerta se cierra, otra se abre; pero a menudo miramos tanto tiempo y de manera tan pesimista a la puerta cerrada que no vemos la que se ha abierto para nosotros."
+    ],
+    "reconocimientos": [
+      "Medalla Volta de la Royal Society of Arts",
+      "Medalla Hughes de la Royal Society",
+      "Miembro de la Sociedad Nacional Geográfica"
+    ],
+    "creencias": "Bell creía en mejorar la comunicación humana y trabajó con pasión para ayudar a las personas sordas a comunicarse mejor.",
+    "legado": "Su invención del teléfono cambió la forma en que el mundo se comunica y su trabajo en el campo de la comunicación y la voz dejó una marca duradera."
+  },
+  {
+    "nombre": "Marie Curie",
+    "fechaNacimiento": "07-11-1867",
+    "muerte": "04-07-1934",
+    "invento": "la radiactividad",
+    "nacionalidad": "Polaca-francesa",
+    "profesion": "Física y química",
+    "educacion": "Universidad de París",
+    "logros": [
+      "Descubrimiento de los elementos radiactivos polonio y radio",
+      "Pionera en el estudio de la radiactividad",
+      "Primera mujer en ganar un Premio Nobel en dos disciplinas (Física y Química)"
+    ],
+    "lugarNacimiento": "Varsovia, Polonia",
+    "lugarMuerte": "Passy, Alta Saboya, Francia",
+    "residenciaDestacada": "Instituto Curie en París",
+    "frasesFamosas": [
+      "Nada en la vida debe ser temido, solo comprendido. Ahora es el momento de entender más, para que tengamos miedo menos."
+    ],
+    "reconocimientos": [
+      "Premio Nobel de Física (1903)",
+      "Premio Nobel de Química (1911)",
+      "Primera mujer en ser profesora en la Universidad de París"
+    ],
+    "creencias": "Marie Curie creía en la importancia de la investigación científica y dedicó su vida al estudio de la radiactividad.",
+    "legado": "Su trabajo en la radiactividad sentó las bases para numerosos avances científicos y médicos, y su legado sigue vivo en la investigación nuclear y médica."
+  },
+  {
+    "nombre": "Albert Einstein",
+    "fechaNacimiento": "14-03-1879",
+    "muerte": "18-04-1955",
+    "invento": "la teoría de la relatividad",
+    "nacionalidad": "Alemán-estadounidense",
+    "profesion": "Físico teórico",
+    "educacion": "Politécnico de Zurich, Universidad de Zurich",
+    "logros": [
+      "Desarrollo de la teoría de la relatividad especial y general",
+      "Explicación del efecto fotoeléctrico",
+      "Famosa ecuación E=mc²"
+    ],
+    "lugarNacimiento": "Ulm, Reino de Wurtemberg, Imperio alemán",
+    "lugarMuerte": "Princeton, Nueva Jersey, Estados Unidos",
+    "residenciaDestacada": "Casa de Einstein en Princeton",
+    "frasesFamosas": [
+      "La imaginación es más importante que el conocimiento. El conocimiento es limitado; la imaginación circunda el mundo."
+    ],
+    "reconocimientos": [
+      "Premio Nobel de Física (1921)",
+      "Miembro de la Real Sociedad de Londres",
+      "Miembro de la Academia Prusiana de Ciencias"
+    ],
+    "creencias": "Einstein creía en la simplicidad y la belleza de las leyes fundamentales de la física.",
+    "legado": "Einstein revolucionó nuestra comprensión del espacio, el tiempo y la gravedad con sus teorías de la relatividad y es uno de los científicos más influyentes de todos los tiempos."
+  },
+  {
+    "nombre": "Alexander Fleming",
+    "fechaNacimiento": "06-08-1881",
+    "muerte": "11-03-1955",
+    "invento": "la penicilina",
+    "nacionalidad": "Escocés",
+    "profesion": "Bacteriólogo e investigador",
+    "educacion": "Universidad de Londres",
+    "logros": [
+      "Descubrimiento de la penicilina, el primer antibiótico",
+      "Pionero en la producción y uso de antibióticos",
+      "Desarrollo de técnicas de cultivo bacteriano"
+    ],
+    "lugarNacimiento": "Lochfield, Escocia",
+    "lugarMuerte": "Londres, Reino Unido",
+    "residenciaDestacada": "Saint Mary's Hospital en Londres",
+    "frasesFamosas": [
+      "En la naturaleza, nada se desperdicia ni se crea; todo se transforma."
+    ],
+    "reconocimientos": [
+      "Premio Nobel de Fisiología o Medicina (1945)",
+      "Miembro de la Royal Society",
+      "Doctor honoris causa en diversas universidades"
+    ],
+    "creencias": "Fleming creía en la importancia de la investigación científica para mejorar la salud humana.",
+    "legado": "El descubrimiento de la penicilina marcó el inicio de la era de los antibióticos y ha salvado innumerables vidas."
+  },
+  {
+    "nombre": "Galileo Galilei",
+    "fechaNacimiento": "15-02-1564",
+    "muerte": "08-01-1642",
+    "invento": "el telescopio",
+    "nacionalidad": "Italiano",
+    "profesion": "Científico, matemático y astrónomo",
+    "educacion": "Universidad de Pisa",
+    "logros": [
+      "Mejoramiento del telescopio y observación de cuerpos celestes",
+      "Defensor de la teoría heliocéntrica de Copérnico",
+      "Desarrollo de la ley de caída de los cuerpos"
+    ],
+    "lugarNacimiento": "Pisa, Italia",
+    "lugarMuerte": "Arcetri, Italia",
+    "residenciaDestacada": "Villa Il Gioiello en Florencia",
+    "frasesFamosas": [
+      "El Sol, con todas sus planetas que giran a su alrededor y dependen de él, todavía puede desplazarse alrededor de algo mucho más grande: el centro de la galaxia."
+    ],
+    "reconocimientos": [
+      "Contribuciones fundamentales a la astronomía y la física",
+      "Padre de la observación astronómica moderna",
+      "Cráter lunar Galilaei"
+    ],
+    "creencias": "Galileo creía en el método científico y la observación objetiva como medios para comprender el universo.",
+    "legado": "Sus observaciones astronómicas y su defensa del heliocentrismo contribuyeron significativamente a la revolución científica del siglo XVII."
+  },
+  {
+    "nombre": "Wright Brothers (Hermanos Wright)",
+    "fechaNacimiento": "Wilbur: 16-04-1867, Orville: 19-08-1871",
+    "muerte": "Wilbur: 30-05-1912, Orville: 30-01-1948",
+    "invento": "el avión",
+    "nacionalidad": "Estadounidense",
+    "profesion": "Inventores y pioneros de la aviación",
+    "educacion": "Autodidactas",
+    "logros": [
+      "Primer vuelo motorizado exitoso en un avión controlado (1903)",
+      "Desarrollo de técnicas de control y estabilidad en vuelo",
+      "Contribución al diseño de aeronaves"
+    ],
+    "lugarNacimiento": "Wilbur: Millville, Indiana, Estados Unidos; Orville: Dayton, Ohio, Estados Unidos",
+    "lugarMuerte": "Wilbur: Dayton, Ohio, Estados Unidos; Orville: Dayton, Ohio, Estados Unidos",
+    "residenciaDestacada": "Casa de la infancia de los hermanos Wright en Dayton, Ohio",
+    "frasesFamosas": [
+      "Si vuelas lo suficientemente alto, no tienes que preocuparte por los pájaros."
+    ],
+    "reconocimientos": [
+      "Medalla Elliott Cresson (Instituto Franklin)",
+      "Miembros del Salón de la Fama Nacional de la Aviación"
+    ],
+    "creencias": "Los hermanos Wright creían en la experimentación y la perseverancia como claves para lograr el vuelo controlado.",
+    "legado": "Los hermanos Wright son considerados los padres de la aviación y su contribución al desarrollo del avión cambió el mundo al acortar distancias y abrir nuevas posibilidades de transporte."
+  },
+  {
+    "nombre": "Guglielmo Marconi",
+    "fechaNacimiento": "25-04-1874",
+    "muerte": "20-07-1937",
+    "invento": "la radio",
+    "nacionalidad": "Italiano",
+    "profesion": "Inventor y pionero de las comunicaciones inalámbricas",
+    "educacion": "Universidad de Bolonia",
+    "logros": [
+      "Desarrollo del sistema de radiocomunicación y transmisión de señales a larga distancia",
+      "Inventó la radio telegrafía sin hilos",
+      "Establecimiento de la primera estación de radio transatlántica"
+    ],
+    "lugarNacimiento": "Bolonia, Italia",
+    "lugarMuerte": "Roma, Italia",
+    "residenciaDestacada": "Villa Griffone en Pontecchio Marconi, Italia",
+    "frasesFamosas": [
+      "La radio es la piedra filosofal de la comunicación."
+    ],
+    "reconocimientos": [
+      "Premio Nobel de Física (1909)",
+      "Miembro de la Royal Society",
+      "Miembro de la Academia de Ciencias de Italia"
+    ],
+    "creencias": "Marconi creía en el potencial de la radiocomunicación para acercar a las personas y las naciones.",
+    "legado": "La invención de la radio cambió la forma en que el mundo se comunica y sentó las bases para la radiodifusión y las comunicaciones modernas."
+  },
+  {
+    "nombre": "Benjamin Franklin",
+    "fechaNacimiento": "17-01-1706",
+    "muerte": "17-04-1790",
+    "invento": "el pararrayos",
+    "nacionalidad": "Estadounidense",
+    "profesion": "Polímata, científico, escritor y político",
+    "educacion": "Autodidacta",
+    "logros": [
+      "Desarrollo del pararrayos y estudio de la electricidad",
+      "Experimentos con cometas y electricidad",
+      "Firma del Tratado de París de 1783 para poner fin a la Guerra de Independencia de los Estados Unidos"
+    ],
+    "lugarNacimiento": "Boston, Massachusetts, Estados Unidos",
+    "lugarMuerte": "Filadelfia, Pensilvania, Estados Unidos",
+    "residenciaDestacada": "Franklin Court en Filadelfia",
+    "frasesFamosas": [
+      "La electricidad es un buen sirviente, pero un mal amo."
+    ],
+    "reconocimientos": [
+      "Miembro de la Royal Society de Londres",
+      "Fundador de la Universidad de Pensilvania",
+      "Firma en la Declaración de Independencia de los Estados Unidos"
+    ],
+    "creencias": "Franklin creía en la importancia de la educación, la ciencia y la diplomacia en la construcción de una sociedad mejor.",
+    "legado": "Sus contribuciones a la ciencia, la política y la educación dejaron una huella perdurable en la historia de los Estados Unidos y del mundo."
+  },
+  {
+    "nombre": "Johannes Gutenberg",
+    "fechaNacimiento": "c. 1400",
+    "muerte": "03-02-1468",
+    "invento": "la imprenta de tipos móviles",
+    "nacionalidad": "Alemán",
+    "profesion": "Inventor, impresor y editor",
+    "educacion": "Desconocida",
+    "logros": [
+      "Desarrollo de la imprenta de tipos móviles con caracteres móviles de metal",
+      "Producción de la primera Biblia impresa, conocida como la Biblia de Gutenberg",
+      "Revolución en la difusión de la información y la literatura"
+    ],
+    "lugarNacimiento": "Maguncia, Sacro Imperio Romano Germánico (actual Alemania)",
+    "lugarMuerte": "Maguncia, Sacro Imperio Romano Germánico (actual Alemania)",
+    "residenciaDestacada": "Casa de Gutenberg en Maguncia",
+    "frasesFamosas": [
+      "La imprenta es la mejor arma en la defensa del individuo y la libertad."
+    ],
+    "reconocimientos": [
+      "Innovación que cambió la historia de la impresión y la comunicación",
+      "La Biblia de Gutenberg es uno de los libros más valiosos del mundo"
+    ],
+    "creencias": "Gutenberg creía en la importancia de hacer que la información y la literatura fueran más accesibles a las masas.",
+    "legado": "La invención de la imprenta revolucionó la difusión de conocimiento y cultura, y es un hito crucial en la historia de la impresión y la comunicación."
+  },
+  {
+    "nombre": "Leonardo da Vinci",
+    "fechaNacimiento": "15-04-1452",
+    "muerte": "02-05-1519",
+    "invento": "una variedad de dispositivos e innovaciones",
+    "nacionalidad": "Italiano",
+    "profesion": "Polímata, pintor, escultor, arquitecto, ingeniero, anatomista y escritor",
+    "educacion": "Autodidacta",
+    "logros": [
+      "Diseño de máquinas voladoras y submarinos",
+      "Estudio anatómico detallado",
+      "Creación de obras de arte icónicas como la Mona Lisa y La Última Cena"
+    ],
+    "lugarNacimiento": "Vinci, República de Florencia (actual Italia)",
+    "lugarMuerte": "Amboise, Reino de Francia",
+    "residenciaDestacada": "Château de Clos Lucé en Amboise",
+    "frasesFamosas": [
+      "Simplicidad es la máxima sofisticación.",
+      "Aquel que ama la práctica sin la teoría es como el marinero que navega sin timón ni brújula y nunca sabe dónde va."
+    ],
+    "reconocimientos": [
+      "Uno de los artistas y científicos más influyentes de la historia",
+      "Icono del Renacimiento italiano",
+      "Legado en la ciencia, el arte y la inventiva"
+    ],
+    "creencias": "Da Vinci creía en la interconexión de la ciencia y el arte, y en la observación minuciosa como fuente de conocimiento.",
+    "legado": "Leonardo da Vinci es un símbolo del Renacimiento y su obra abarcó una amplia gama de disciplinas, dejando un legado duradero en la ciencia y el arte."
+  },
+  {
+    "nombre": "Marconi",
+    "fechaNacimiento": "25-04-1874",
+    "muerte": "20-07-1937",
+    "invento": "la radio",
+    "nacionalidad": "Italiano",
+    "profesion": "Inventor y pionero de las comunicaciones inalámbricas",
+    "educacion": "Universidad de Bolonia",
+    "logros": [
+      "Desarrollo del sistema de radiocomunicación y transmisión de señales a larga distancia",
+      "Inventó la radio telegrafía sin hilos",
+      "Establecimiento de la primera estación de radio transatlántica"
+    ],
+    "lugarNacimiento": "Bolonia, Italia",
+    "lugarMuerte": "Roma, Italia",
+    "residenciaDestacada": "Villa Griffone en Pontecchio Marconi, Italia",
+    "frasesFamosas": [
+      "La radio es la piedra filosofal de la comunicación."
+    ],
+    "reconocimientos": [
+      "Premio Nobel de Física (1909)",
+      "Miembro de la Royal Society",
+      "Miembro de la Academia de Ciencias de Italia"
+    ],
+    "creencias": "Marconi creía en el potencial de la radiocomunicación para acercar a las personas y las naciones.",
+    "legado": "La invención de la radio cambió la forma en que el mundo se comunica y sentó las bases para la radiodifusión y las comunicaciones modernas."
+  },
+  {
+    "nombre": "Henry Ford",
+    "fechaNacimiento": "30-07-1863",
+    "muerte": "07-04-1947",
+    "invento": "la línea de ensamblaje moderna",
+    "nacionalidad": "Estadounidense",
+    "profesion": "Ingeniero e industrial",
+    "educacion": "Autodidacta",
+    "logros": [
+      "Desarrollo de la línea de ensamblaje en la producción de automóviles",
+      "Introducción del Ford Model T, el primer automóvil asequible",
+      "Contribución a la estandarización de la fabricación industrial"
+    ],
+    "lugarNacimiento": "Greenfield Township, Michigan, Estados Unidos",
+    "lugarMuerte": "Dearborn, Míchigan, Estados Unidos",
+    "residenciaDestacada": "Fair Lane en Dearborn, Míchigan",
+    "frasesFamosas": [
+      "Puedes tener cualquier color que desees, siempre y cuando sea negro."
+    ],
+    "reconocimientos": [
+      "Innovación en la fabricación industrial",
+      "Fundador de Ford Motor Company",
+      "Revitalización de la industria automotriz"
+    ],
+    "creencias": "Ford creía en la eficiencia y la producción en masa como medios para hacer que los productos fueran más asequibles para la población.",
+    "legado": "Henry Ford revolucionó la industria automotriz con su enfoque en la producción en masa y cambió la forma en que el mundo se mueve."
+  },
+  {
+    "nombre": "Wright Brothers (Hermanos Wright)",
+    "fechaNacimiento": "Wilbur: 16-04-1867, Orville: 19-08-1871",
+    "muerte": "Wilbur: 30-05-1912, Orville: 30-01-1948",
+    "invento": "el avión",
+    "nacionalidad": "Estadounidense",
+    "profesion": "Inventores y pioneros de la aviación",
+    "educacion": "Autodidactas",
+    "logros": [
+      "Primer vuelo motorizado exitoso en un avión controlado (1903)",
+      "Desarrollo de técnicas de control y estabilidad en vuelo",
+      "Contribución al diseño de aeronaves"
+    ],
+    "lugarNacimiento": "Wilbur: Millville, Indiana, Estados Unidos; Orville: Dayton, Ohio, Estados Unidos",
+    "lugarMuerte": "Wilbur: Dayton, Ohio, Estados Unidos; Orville: Dayton, Ohio, Estados Unidos",
+    "residenciaDestacada": "Casa de la infancia de los hermanos Wright en Dayton, Ohio",
+    "frasesFamosas": [
+      "Si vuelas lo suficientemente alto, no tienes que preocuparte por los pájaros."
+    ],
+    "reconocimientos": [
+      "Medalla Elliott Cresson (Instituto Franklin)",
+      "Miembros del Salón de la Fama Nacional de la Aviación"
+    ],
+    "creencias": "Los hermanos Wright creían en la experimentación y la perseverancia como claves para lograr el vuelo controlado.",
+    "legado": "Los hermanos Wright son considerados los padres de la aviación y su contribución al desarrollo del avión cambió el mundo al acortar distancias y abrir nuevas posibilidades de transporte."
+  },
+  {
+    "nombre": "Enrico Fermi",
+    "fechaNacimiento": "29-09-1901",
+    "muerte": "28-11-1954",
+    "invento": "el reactor nuclear",
+    "nacionalidad": "Italiano-estadounidense",
+    "profesion": "Físico teórico",
+    "educacion": "Universidad de Pisa, Universidad de Gotinga",
+    "logros": [
+      "Desarrollo del primer reactor nuclear controlado (Chicago Pile-1)",
+      "Contribuciones fundamentales a la física nuclear y la teoría cuántica",
+      "Participación en el Proyecto Manhattan y el desarrollo de la bomba atómica"
+    ],
+    "lugarNacimiento": "Roma, Italia",
+    "lugarMuerte": "Chicago, Illinois, Estados Unidos",
+    "residenciaDestacada": "Universidad de Chicago",
+    "frasesFamosas": [
+      "Si hay otras civilizaciones, no podemos comunicarnos con ellas. Si no hay otras civilizaciones, no importa. De cualquier manera, es un tema muy inquietante."
+    ],
+    "reconocimientos": [
+      "Premio Nobel de Física (1938)",
+      "Medalla Fermi de la Asociación de Física de EE. UU.",
+      "Miembro de la Academia Nacional de Ciencias"
+    ],
+    "creencias": "Fermi creía en el poder de la física teórica para avanzar en nuestra comprensión del mundo y en la responsabilidad ética en la investigación nuclear.",
+    "legado": "Su trabajo en la física nuclear y su papel en el desarrollo de la energía nuclear y la bomba atómica dejaron una huella duradera en la ciencia y la historia del siglo XX."
+  },
+  {
+    "nombre": "Ada Lovelace",
+    "fechaNacimiento": "10-12-1815",
+    "muerte": "27-11-1852",
+    "invento": "el primer algoritmo de programación",
+    "nacionalidad": "Británica",
+    "profesion": "Matemática y escritora",
+    "educacion": "Educación privada y tutoría en matemáticas",
+    "logros": [
+      "Desarrollo del primer algoritmo de programación para la Máquina Analítica de Charles Babbage",
+      "Visión pionera sobre el potencial de las computadoras para más que cálculos numéricos",
+      "Considerada la primera programadora de la historia"
+    ],
+    "lugarNacimiento": "Londres, Reino Unido",
+    "lugarMuerte": "Londres, Reino Unido",
+    "residenciaDestacada": "Casa de su infancia en Ockham Park, Surrey",
+    "frasesFamosas": [
+      "La máquina de Babbage no difiere en ningún aspecto esencial de los dispositivos de cómputo actuales."
+    ],
+    "reconocimientos": [
+      "Pionera en la programación de computadoras",
+      "El lenguaje de programación Ada lleva su nombre",
+      "Día de Ada Lovelace en su honor"
+    ],
+    "creencias": "Ada Lovelace tenía una visión avanzada de las posibilidades de las computadoras y su capacidad para crear arte y música, además de realizar cálculos.",
+    "legado": "Ada Lovelace es considerada la primera programadora de la historia y su algoritmo sentó las bases para la programación de computadoras modernas."
+  }
+]
